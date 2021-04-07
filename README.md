@@ -1,2 +1,1 @@
-# Request-Header-Parser-Microservice
-An API Microservice FreeCodeCamp project to demonstrate my skills in Node.js/ Express
+# [Request Header Parser Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice)
